@@ -1,4 +1,4 @@
-# telegram bot by @Trust
+# telegram bot by @kiddingtrust
 ___
 How to install
 pyTelegramBotAPI 0.3.0
